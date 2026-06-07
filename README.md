@@ -41,6 +41,6 @@ Mi misión es compartir esos hallazgos con estudiantes que, como yo, buscan apre
 
 Si estás cansado de los cursos teóricos que no resuelven problemas del mundo real y quieres aprender a construir tus propios sistemas sin depender de frameworks mágicos o terceros:
 
-* 🏫 **Udemy Profile:** [Aprende con mis cursos reales](https://www.udemy.com/user/ramiro-garcia-gonzalez-2/)
+* 🏫 **Udemy Profile:** [Aprende con mis cursos reales](https://www.udemy.com/user/ramiro-g-gonzalez/)
 * 🌐 **Marca Personal:** **SyntaxSanctuary**
 * 🐙 **GitHub:** [@radaptow](https://github.com/radaptow)
