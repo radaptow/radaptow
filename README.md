@@ -37,13 +37,6 @@ Mi misión es compartir esos hallazgos con estudiantes que, como yo, buscan apre
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=radaptow&show_icons=true&theme=dracula&count_private=true)
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=radaptow&layout=compact&theme=dracula)
-
----
-
 ## 🎓 Conecta Conmigo & Aprende Independientemente
 
 Si estás cansado de los cursos teóricos que no resuelven problemas del mundo real y quieres aprender a construir tus propios sistemas sin depender de frameworks mágicos o terceros:
