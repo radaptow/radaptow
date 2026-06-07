@@ -1,4 +1,4 @@
-# ⛩️ Ramiro Garcia Gonzalez (batdcat)
+# ⛩️ Ramiro Garcia Gonzalez (radaptow)
 **Programador Independiente & Emprendedor Digital | Fundador de SyntaxSanctuary**
 
 ---
