@@ -31,9 +31,9 @@ Mi misión es compartir esos hallazgos con estudiantes que, como yo, buscan apre
 
 ## 🛠️ Proyectos Destacados en Desarrollo
 
-* **⌨️ Custom Mobile-First Text Editor (En progreso):** Un editor de código minimalista y móvil-first escrito en C utilizando `ncurses` y el Model Context Protocol (MCP) para integración local con LLMs (Ollama/Gemma), diseñado específicamente para flujos de trabajo hiper-enfocados.
-* **📦 SyntaxSanctuary Core Modules:** Paquetes modulares de PHP listos para Composer y Packagist, enfocados en resolver problemas específicos (como WebSockets nativos para chats en tiempo real de alto rendimiento) sin depender de frameworks pesados.
-* **🌐 Hotel Linen Inventory System:** Una Progressive Web App (PWA) robusta desarrollada para resolver la logística real de inventarios y lavandería industrial a gran escala.
+* **⌨️ Custom Mobile-First Text Editor (En progreso__no he iniciado XD):** Un editor de código minimalista y móvil-first escrito en C utilizando `ncurses` y el Model Context Protocol (MCP) para integración local con LLMs (Ollama/Gemma), diseñado específicamente para flujos de trabajo hiper-enfocados.
+* **📦 SyntaxSanctuary Core Modules (En progreso__no he iniciado XD):** Paquetes modulares de PHP listos para Composer y Packagist, enfocados en resolver problemas específicos (como WebSockets nativos para chats en tiempo real de alto rendimiento) sin depender de frameworks pesados.
+* **🌐 Hotel Linen Inventory System (En progreso__no he iniciado XD):** Una Progressive Web App (PWA) robusta desarrollada para resolver la logística real de inventarios y lavandería industrial a gran escala.
 
 ---
 
